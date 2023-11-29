@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.env.windows": {
+    "PATH": "C:\\Program Files\\Git\\bin;C:\\Program Files\\Git\\cmd"
+    },
+    "terminal.integrated.env.linux": {
+    "PATH": "C:/Program Files/Git/bin:C:/Program Files/Git/cmd"
+    },
+    "terminal.integrated.env.osx": {
+    "PATH": "C:/Program Files/Git/bin:C:/Program Files/Git/cmd"
+    }
+}
